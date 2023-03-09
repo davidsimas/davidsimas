@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋David Simas
+
+🌎 Olá mundo, bem-vindo ao meu Git Hub.
+
+👨‍💻- Sobre mim
+
+Eu sou um desenvolvedor de software iniciante, com conhecimentos em uma linguagem de programação, frameworks e bancos de dados. Tenho uma grande paixão pela tecnologia e estou constantemente procurando por novas oportunidades de aprendizado e desenvolvimento de minhas habilidades.
 
 <!-- 
 **davidsimas/davidsimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
